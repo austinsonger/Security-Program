@@ -4,17 +4,7 @@
 
 {{companyShortName}} shall audit, monitor, and assess the access and activity of
 systems and applications that process or store production and/or sensitive data
-such as personally identifiable information (PII)
-{{#needStandardHIPAA}}
-and electronic protected health information (ePHI)
-{{/needStandardHIPAA}}
-in order to ensure compliance.
-
-{{#needStandardHIPAA}}
-It is required by the HIPAA Security Rule, that healthcare organizations to
-implement reasonable hardware, software, and/or procedural mechanisms that
-record and examine activity in information systems that contain or use ePHI.
-{{/needStandardHIPAA}}
+such as personally identifiable information (PII) in order to ensure compliance.
 
 Audit activities may be limited by application, system, and/or network auditing
 capabilities and resources. {{companyShortName}} shall make reasonable and

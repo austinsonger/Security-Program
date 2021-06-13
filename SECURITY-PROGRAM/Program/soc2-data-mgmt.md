@@ -7,9 +7,7 @@ implemented to manage the end-to-end data lifecycle, from data
 creation/acquisition to retention and deletion.
 
 Additionally, this policy outlines requirements and procedures to create and
-maintain retrievable exact copies of
-{{#needStandardHIPAA}}electronic protected health information(ePHI),{{/needStandardHIPAA}}
-PII and other critical customer/business data.
+maintain retrievable exact copies of PII and other critical customer/business data.
 
 Data backup is an important part of the day-to-day operations of {{companyShortName}}. To
 protect the confidentiality, integrity, and availability of sensitive and critical data, both for

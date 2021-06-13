@@ -15,15 +15,6 @@ those authorized in this policy. All workforce members are
 responsible for reporting an incident of unauthorized visitor and/or
 unauthorized access to {{companyShortName}}'s facility.
 
-{{#needStandardHIPAA}}
-{{companyShortName}} and its Subcontractors control access to the physical
-buildings/facilities that house these systems/applications, or in which
-{{companyShortName}} workforce members operate, in accordance to the HIPAA
-Security Rule 164.310 and its implementation specifications. In an effort to
-safeguard ePHI from unauthorized access, tampering, and theft, access is allowed
-to areas only to those persons authorized to be in them and with escorts for
-unauthorized persons.
-{{/needStandardHIPAA}}
 
 ## Policy Statements
 

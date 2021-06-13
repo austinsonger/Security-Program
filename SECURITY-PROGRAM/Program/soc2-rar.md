@@ -41,8 +41,7 @@ Officer, and represented by the select members of the senior leadership team
 
 {{companyShortName}} policy requires that:
 
-(a) A Security and Privacy Officer {{#needStandardHIPAA}}[164.308(a)(2)]{{/needStandardHIPAA}}
-must be appointed to assist in maintaining and enforcing safeguards towards
+(a) A Security and Privacy Officer  must be appointed to assist in maintaining and enforcing safeguards towards
 security, compliance, and privacy.
 
 {{#needStandardGDPR}}
@@ -59,9 +58,6 @@ workforce members are required to:
     security training as part of the ongoing security awareness program and as
     required by job role.
 
-  {{#needStandardHIPAA}}
-  * Complete annual HIPAA awareness training
-  {{/needStandardHIPAA}}
 
   * Follow all security requirements set forth in {{companyShortName}} security
     policy and procedures, including but is not limited to access control

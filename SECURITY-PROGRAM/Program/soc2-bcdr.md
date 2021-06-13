@@ -6,15 +6,6 @@ The {{companyShortName}} Contingency Plan establishes procedures to recover {{co
 following a disruption resulting from a disaster. This Disaster Recovery Policy
 is maintained by the {{companyShortName}} Security Officer and Privacy Officer.
 
-{{#needStandardHIPAA}}
-**HIPAA:** This {{companyShortName}} Contingency Plan has been developed as
-required under the Office of Management and Budget (OMB) Circular A-130,
-Management of Federal Information Resources, Appendix III, November 2000, and
-the Health Insurance Portability and Accountability Act (HIPAA) Final Security
-Rule, Section §164.308(a)(7), which requires the establishment and
-implementation of procedures for responding to events that damage systems
-containing electronic protected health information.
-{{/needStandardHIPAA}}
 
 {{#needStandardNIST}}
 **NIST:** This {{companyShortName}} Contingency Plan is created under the

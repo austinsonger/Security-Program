@@ -17,18 +17,7 @@ policies at specific historic dates in time.
 applicable compliance requirements adhere to security best practices, including
 but not limited to:
 
-{{#needStandardHIPAA}}
-- HIPAA
-{{/needStandardHIPAA}}
-{{#needStandardHITRUST}}
-- HITRUST
-{{/needStandardHITRUST}}
-{{#needStandardGDPR}}
-- GDPR
-{{/needStandardGDPR}}
-{{#needStandardNIST}}
 - NIST
-{{/needStandardNIST}}
 - SOC 2
 
 (b) All policies must be reviewed at least annually.

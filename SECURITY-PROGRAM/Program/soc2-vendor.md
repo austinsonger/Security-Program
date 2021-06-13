@@ -30,16 +30,5 @@ belonging to other 3rd parties.
 (e) Additional vendor agreements are obtained as required by applicable
 regulatory compliance requirements.
 
-{{#needStandardHIPAA}}
-* A standard HIPAA Business Associate Agreement (BAA) is defined and includes
-  the required security controls in accordance with the organization's security
-  policies. Additionally, responsibility is assigned in these agreements. A BAA
-  must be signed with any vendor that may have a business need to access, and/or
-  unsupervised access to PHI or ePHI.
-{{/needStandardHIPAA}}
 
-{{#needStandardGDPR}}
-* A GDPR Data Processing Agreement/Addendum (DPA) is defined and executed for
-  each {{companyShortName}} vendor/contractor that processes personal data of
-  EU users.
-{{/needStandardGDPR}}
+

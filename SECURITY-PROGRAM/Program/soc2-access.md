@@ -8,10 +8,6 @@ contracted providers, consultants, and any other entity, is allowable only on a
 minimum necessary basis. All users are responsible for reporting an incident of
 unauthorized user or access of the organization's information systems.
 
-{{#needStandardHIPAA}}
-These safeguards have been established to address the
-HIPAA Security regulations and industry best practices.
-{{/needStandardHIPAA}}
 
 ## Policy Statements
 
